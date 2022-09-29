@@ -325,20 +325,25 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.reactjs {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.expressjs {
+  	width: 80%;
+  	-moz-animation: expressjs 2s ease;
+  	-webkit-animation: expressjs 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.nodejs {
+  	width: 85%;
+  	-moz-animation: nodejs 2s ease;
+  	-webkit-animation: nodejs 2s ease;
+}
+.mongodb {
+  	width: 70%;
+  	-moz-animation: mongodb 2s ease;
+  	-webkit-animation: mongodb 2s ease;
 }
 .css {
   	width: 90%;
@@ -350,10 +355,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.postgresql {
+  	width: 75%;
+  	-moz-animation: postgresql 2s ease;
+  	-webkit-animation: postgresql 2s ease;
 }
 
 @-moz-keyframes photoshop {
