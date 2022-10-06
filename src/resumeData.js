@@ -22,32 +22,32 @@ let resumeData = {
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": "I am currently a Full Stack Developer at a startup called DOC24 and studying a degree in Systems Engineering at the Universidad Tecnologica Nacional. I have experience in JavaScript, Node, Express, React, Redux, PostgreSQL, MongoDB, HTML and CSS. I am a quick learner and I am always looking to improve my skills.",
-  "address": "Buenos Aires, Argentina",
+  "aboutme": 'I am currently a Full Stack Developer at a startup called DOC24 and studying a degree in Systems Engineering at the Universidad Tecnologica Nacional. I have experience in JavaScript, TypeScript, Node, Express, React, Redux, Material UI, Bootstrap, Next.js, PostgreSQL, MongoDB, HTML and CSS. I am a quick learner and I am always looking to improve my skills. In my free time I am a coffee lover, a cat lover and I like to work on personal projects, participate in hackathons and attend meetings and conferences.',
+  "address": "La Plata, Buenos Aires, Argentina",
   "website": "brianisaiasaguilar@gmail.com",
   "education": [
     {
       "UniversityName": "Universidad Tecnologica Nacional",
       "specialization": "Systems Engineering",
-      "MonthOfPassing": "Estimating",
+      "MonthOfPassing": "Sept 2022 - Estimating",
       "YearOfPassing": "2028",
     },
     {
       "UniversityName": "Universidad Nacional de La Plata",
       "specialization": "Computer Science",
-      "MonthOfPassing": "Sept",
+      "MonthOfPassing": "Mar 2020 - Sept",
       "YearOfPassing": "2022",
     },
     {
       "UniversityName": "The University of Chicago",
       "specialization": "Fintech",
-      "MonthOfPassing": "Apr",
+      "MonthOfPassing": "Feb 2022 - Apr",
       "YearOfPassing": "2020",
     },
     {
       "UniversityName": "Henry",
       "specialization": "Full Stack Development - Coding Bootcamp",
-      "MonthOfPassing": "Jun",
+      "MonthOfPassing": "Jan 2021 - May",
       "YearOfPassing": "2021",
     }
   ],
@@ -55,26 +55,26 @@ let resumeData = {
     {
       "CompanyName": "DOC24",
       "specialization": "Full Stack Developer",
-      "MonthOfLeaving": "-",
+      "MonthOfLeaving": "Feb 2022 - ",
       "YearOfLeaving": "Present",
-      "Achievements": "Built from start to finish the database, backend and frontend of a web app"
+      "Achievements": "Built from start to finish the db, backend and frontend of a muscular rehabilitation telemedicine application. Used technologies: PostgreSQL, MongoDB, Mongoose, JavaScript, TypeScript, Node.js, Express.js, Postman, Git, GitHub, React.js, Redux, Material UI, HTML, CSS, Trello, and Jira."
     },
     {
       "CompanyName": "Treggo",
       "specialization": "Full Stack Developer",
-      "MonthOfLeaving": "Feb",
+      "MonthOfLeaving": "Jun 2022 - Feb",
       "YearOfLeaving": "2022",
-      "Achievements": "Migrated the entire backend"
+      "Achievements": "Migrated backend code and worked on the development and maintenance of microservices. Used technologies: MongoDB, JavaScript, Express.js, Node.js, Postman, Git, GitHub, ClickUp, and Notion."
     },
     {
       "CompanyName": "Henry",
       "specialization": "Teaching Assistant - Full Stack Development",
-      "MonthOfLeaving": "May",
+      "MonthOfLeaving": "Mar 2021 - May",
       "YearOfLeaving": "2021",
-      "Achievements": "Taught 20+ students the fundamentals of Full Stack Development."
+      "Achievements": "Helped 20+ students to learn the fundamentals of Full Stack Development. Used technologies: JavaScript, React.js, Redux, Node.js, Express.js, PostgreSQL, Sequelize, HTML, CSS, Git, GitHub, and Slack."
     }
   ],
-  "skillsDescription": "My skills",
+  "skillsDescription": "",
   "skills": [
     {
       "skillname": "HTML5"
@@ -114,7 +114,7 @@ let resumeData = {
   ],
   "testimonials": [
     {
-      "description": "Brian es una persona super original y proactivo! trabajamos juntos en el bootcamp Soy Henry donde desarrollamos un proyecto fullstack, este periodo fue genial! él tiene una gran capacidad analitica para abordar problemas y generar soluciones metódicas. Un gran desarrollador!",
+      "description": "Brian is a super original and proactive person! We worked together in the bootcamp Henry where we developed a Fullstack project. This period was great! He possesses great analytical skills to approach problems and generate methodical solutions. A great developer!",
       "name": "Angel Zarate: Frontend Developer at Mercado Libre"
     }
   ]

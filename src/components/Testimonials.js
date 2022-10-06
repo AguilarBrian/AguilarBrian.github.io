@@ -18,7 +18,10 @@ export default class Testimonials extends Component {
                         <li>
                           <blockquote>
                             <p>
-                            {item.description}
+                            Brian is a super original and proactive person!<br></br>
+                            We worked together in the Henry bootcamp where we developed a Full Stack project. This period was great!<br></br>
+                            He possesses great analytical skills to approach problems and generate methodical solutions.<br></br>
+                            A great developer!
                             </p>
                             <cite>{item.name}</cite>
                           </blockquote>

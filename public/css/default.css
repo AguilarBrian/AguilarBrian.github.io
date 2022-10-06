@@ -29,6 +29,7 @@ e. Others
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 /* ------------------------------------------------------------------
 /* b. Reset
@@ -203,7 +204,7 @@ blockquote:before {
 	left: 0;
 }
 blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'Roboto Slab', serif;
    padding: 0;
    font-size: 18px;
    line-height: 36px;
