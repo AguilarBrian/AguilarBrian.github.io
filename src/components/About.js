@@ -16,8 +16,8 @@ export default class About extends Component {
 
                <h2>About Me</h2>
                <p>
-               Experienced in web development and AI tools and libraries. Studying a Data Science, quick learner and always looking to improve my skills. Member of Python Argentina.<br></br><br></br>
-               In my free time I read, spend time with my cats, and learn languages..<br></br><br></br>
+               Experienced in web development and AI tools and libraries, currently studying Data Science. A quick learner, always looking to improve my skills. Member of Python Argentina.<br></br><br></br>
+               In my free time, I enjoy reading, spending time with my cats, and learning languages.<br></br><br></br>
                </p>
 
                <div className="row">
