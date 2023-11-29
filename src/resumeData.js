@@ -1,10 +1,10 @@
 let resumeData = {
-  "imagebaseurl": "https://github.com/AguilarBrian",
+  "imagebaseurl": "https://github.com/braiaguilar",
   "name": "Brian Aguilar",
   "role": "Full Stack Developer",
   "linkedinId": "braiaguilar",
   "skypeid": "braiaguilar",
-  "roleDescription": " With experience in web applications development. Eager to collaborate in a motivated team to build out-of-the-box solutions for clients. Skilled in developing problem solutions, disperse uncertainty, and manage team dynamism.",
+  "roleDescription": "Full Stack Developer with 2+ years of experience in PERN and MERN stacks. Specialized in implementing artificial intelligence on the web.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -13,16 +13,16 @@ let resumeData = {
     },
     {
       "name": "github",
-      "url": "http://github.com/AguilarBrian",
+      "url": "https://github.com/braiaguilar",
       "className": "fa fa-github"
     },
     {
       "name": "skype",
-      "url": "http://twitter.com/braiaguilar",
+      "url": "https://twitter.com/braiaguilar",
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": 'I am currently a Full Stack Developer at a startup called DOC24 and studying a degree in Systems Engineering at the Universidad Tecnologica Nacional. I have experience in JavaScript, TypeScript, Node, Express, React, Redux, Material UI, Bootstrap, Next.js, PostgreSQL, MongoDB, HTML and CSS. I am a quick learner and I am always looking to improve my skills. In my free time I am a coffee lover, a cat lover and I like to work on personal projects, participate in hackathons and attend meetings and conferences.',
+  "aboutme": 'Experienced in web development and AI tools and libraries. Studying a Data Science, quick learner and always looking to improve my skills. In my free time I read, spend time with my cats, and learn languages.',
   "address": "La Plata, Buenos Aires, Argentina",
   "website": "brianisaiasaguilar@gmail.com",
   "education": [
@@ -53,34 +53,48 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "Coderhouse",
+      "specialization": "Tutor - Backend Development",
+      "MonthOfLeaving": "Mar 2023 - ",
+      "YearOfLeaving": "Present (Part-time)",
+      "Achievements": "Monitoring, correcting, and supplementing the course content: JavaScript server-side programming with asynchronous techniques, Node.js, Express, and REST APIs. Provide support to a group of +20 students."
+    },
+    {
+      "CompanyName": "UMA Health",
+      "specialization": "Full Stack Developer",
+      "MonthOfLeaving": "Dec 2022 - ",
+      "YearOfLeaving": "Present",
+      "Achievements": "Nexus between the Data Science team and the Engineering team and responsible for the development of a large health monitoring and personnel management project for a multinational building materials client. Implementation of LLMs in innovative applications for the monitoring and treatment of mental health."
+    },
+    {
       "CompanyName": "DOC24",
       "specialization": "Full Stack Developer",
-      "MonthOfLeaving": "Feb 2022 - ",
-      "YearOfLeaving": "Present",
-      "Achievements": "Built from start to finish the db, backend and frontend of a muscular rehabilitation telemedicine application. Used technologies: PostgreSQL, MongoDB, Mongoose, JavaScript, TypeScript, Node.js, Express.js, Postman, Git, GitHub, React.js, Redux, Material UI, HTML, CSS, Trello, and Jira."
+      "MonthOfLeaving": "Feb 2022 - Dec",
+      "YearOfLeaving": "2022",
+      "Achievements": "Achieved 100% of the team's project goals by developing a telemedicine application for musculoskeletal rehabilitation. The application connects health professionals with patients undergoing kinesiological treatments and automates exercise routines using TensorFlow's posture recognition and estimation capabilities on a PERN Stack + Next.js Progressive Web App. I worked on this project from start to finish and received the 2022 Innovation Award of the year at the company for this development."
     },
     {
       "CompanyName": "Treggo",
       "specialization": "Full Stack Developer",
       "MonthOfLeaving": "Jun 2022 - Feb",
       "YearOfLeaving": "2022",
-      "Achievements": "Migrated backend code and worked on the development and maintenance of microservices. Used technologies: MongoDB, JavaScript, Express.js, Node.js, Postman, Git, GitHub, ClickUp, and Notion."
+      "Achievements": "As part of the Core team at the leading last mile delivery company in the region, I collaborated closely with clients from prominent multinationals to fulfill their logistics requirements. My responsibilities included implementing new features in the APIs, which resulted in improved efficiency and reduced loading times for various projects. Additionally, I actively contributed to the refactoring, migration, and integration of the Backend source code."
     },
     {
       "CompanyName": "Henry",
       "specialization": "Teaching Assistant - Full Stack Development",
       "MonthOfLeaving": "Mar 2021 - May",
       "YearOfLeaving": "2021",
-      "Achievements": "Helped 20+ students to learn the fundamentals of Full Stack Development. Used technologies: JavaScript, React.js, Redux, Node.js, Express.js, PostgreSQL, Sequelize, HTML, CSS, Git, GitHub, and Slack."
+      "Achievements": "Monitoring, correcting, and supplementing the course content: JavaScript server-side programming with asynchronous techniques, Node.js, Express, REST APIs, and PostgreSQL; client-side programming, exploring Vanilla JavaScript, jQuery, AJAX, React and Redux, and preprocessors like SASS and LESS. Provided support to a group of 20 students."
     }
   ],
   "skillsDescription": "",
   "skills": [
     {
-      "skillname": "HTML5"
+      "skillname": "Python"
     },
     {
-      "skillname": "CSS"
+      "skillname": "Nextjs"
     },
     {
       "skillname": "Reactjs"
