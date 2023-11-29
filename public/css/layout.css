@@ -347,13 +347,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: mongodb 2s ease;
   	-webkit-animation: mongodb 2s ease;
 }
-.css {
-  	width: 90%;
+.nextjs {
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
-  	width: 80%;
+.python {
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
