@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.png" alt="" />
+               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
 
             </div>
 
@@ -16,18 +16,18 @@ export default class About extends Component {
 
                <h2>About Me</h2>
                <p>
-               Experienced in web development and AI tools and libraries, currently studying Data Science. A quick learner, always looking to improve my skills. Member of Python Argentina.<br></br><br></br>
-               In my free time, I enjoy reading, spending time with my cats, and learning languages.<br></br><br></br>
+               <strong>Passionate and driven</strong> to deliver user-focused web solutions. I like balancing technical expertise with a strong human touch.<br></br><br></br>
+               <strong>Experienced in web development and AI tools</strong>, I adapt quickly to new challenges and seamlessly integrate into any team environment.<br></br><br></br>
+               <strong>Empathetic and a strong team player</strong>, I aim to foster positive relationships and contribute to a harmonious workspace.<br></br><br></br>
+               Outside of work, I enjoy taekwondo, going to the gym, and learning new languages.<br></br><br></br>
                </p>
 
                <div className="row">
 
                   <div className="columns contact-details">
 
-                  <h2>Contact Details</h2>
+                  <h2>Contact</h2>
                   <p className="address">
-       						<span>{resumeData.name}</span>
-                     <br></br>
        						   <span>
                      {resumeData.address}
                     </span>

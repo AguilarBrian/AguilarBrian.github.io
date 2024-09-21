@@ -18,52 +18,52 @@ let resumeData = {
     },
     {
       "name": "skype",
-      "url": "https://twitter.com/braiaguilar",
+      "url": "https://x.com/braiaguilar",
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": 'Experienced in web development and AI tools and libraries. Studying a Data Science, quick learner and always looking to improve my skills. In my free time I read, spend time with my cats, and learn languages.',
-  "address": "La Plata, Buenos Aires, Argentina",
+  "address": "La Plata, Buenos Aires, Argentina.",
   "website": "brianisaiasaguilar@gmail.com",
   "education": [
     {
-      "UniversityName": "Universidad Tecnologica Nacional",
-      "specialization": "Systems Engineering",
-      "MonthOfPassing": "Sept 2022 - Estimating",
-      "YearOfPassing": "2028",
-    },
-    {
-      "UniversityName": "Universidad Nacional de La Plata",
-      "specialization": "Computer Science",
-      "MonthOfPassing": "Mar 2020 - Sept",
-      "YearOfPassing": "2022",
-    },
-    {
-      "UniversityName": "The University of Chicago",
-      "specialization": "Fintech",
+      "UniversityName": "University of Chicago",
+      "specialization": "Professional Education Course in Fintech",
       "MonthOfPassing": "Feb 2022 - Apr",
       "YearOfPassing": "2020",
     },
     {
       "UniversityName": "Henry",
-      "specialization": "Full Stack Development - Coding Bootcamp",
+      "specialization": "Full Stack Development Coding Bootcamp",
       "MonthOfPassing": "Jan 2021 - May",
       "YearOfPassing": "2021",
+    },
+    {
+      "UniversityName": "Universidad Nacional de La Plata",
+      "specialization": "BSc Computer Science",
+      "MonthOfPassing": "Mar 2018 - Dec",
+      "YearOfPassing": "2022",
     }
   ],
   "work": [
     {
+      "CompanyName": "Banza",
+      "specialization": "Senior Backend Developer",
+      "MonthOfLeaving": "Feb 2024 - ",
+      "YearOfLeaving": "Present",
+      "Achievements": "Technologies: Python, FastAPI, Postman, PostgreSQL, AWS."
+    },
+    {
       "CompanyName": "Coderhouse",
       "specialization": "Tutor - Backend Development",
-      "MonthOfLeaving": "Mar 2023 - ",
-      "YearOfLeaving": "Present (Part-time)",
+      "MonthOfLeaving": "Mar 2023 - Feb",
+      "YearOfLeaving": "2024 (Part-time)",
       "Achievements": "Monitoring, correcting, and supplementing the course content: JavaScript server-side programming with asynchronous techniques, Node.js, Express, and REST APIs. Provide support to a group of +20 students."
     },
     {
-      "CompanyName": "UMA Health",
+      "CompanyName": "ÜMA Health AI",
       "specialization": "Full Stack Developer",
-      "MonthOfLeaving": "Dec 2022 - ",
-      "YearOfLeaving": "Present",
+      "MonthOfLeaving": "Dec 2022 - Feb",
+      "YearOfLeaving": "2024",
       "Achievements": "Nexus between the Data Science team and the Engineering team and responsible for the development of a large health monitoring and personnel management project for a multinational building materials client. Implementation of LLMs in innovative applications for the monitoring and treatment of mental health."
     },
     {
