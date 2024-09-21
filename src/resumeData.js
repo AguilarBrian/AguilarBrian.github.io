@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Developer",
   "linkedinId": "braiaguilar",
   "skypeid": "braiaguilar",
-  "roleDescription": "Full Stack Developer with 3+ years of experience in PERN and MERN stacks. Specialized in implementing artificial intelligence on the web.",
+  "roleDescription": "Full Stack Developer with 3+ years of experience delivering human-centered web solutions.",
   "socialLinks": [
     {
       "name": "linkedin",
