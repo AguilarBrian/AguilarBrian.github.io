@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Developer",
   "linkedinId": "braiaguilar",
   "skypeid": "braiaguilar",
-  "roleDescription": "Full Stack Developer with 3+ years of experience delivering human-centered web solutions.",
+  "roleDescription": "Full Stack Developer with 4+ years of experience delivering human-centered web solutions.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -46,10 +46,17 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "Payana",
+      "specialization": "Full Stack Developer",
+      "MonthOfLeaving": "Nov 2024 - ",
+      "YearOfLeaving": "Present",
+      "Achievements": "Developed and maintained a B2B Service payments and scheduling product used by small and medium-sized businesses (SMBs) in Colombia to manage and pay for their services."
+    },
+    {
       "CompanyName": "Banza",
       "specialization": "Senior Backend Developer",
-      "MonthOfLeaving": "Feb 2024 - ",
-      "YearOfLeaving": "Present",
+      "MonthOfLeaving": "Feb 2024 - Nov",
+      "YearOfLeaving": "2024",
       "Achievements": "Technologies: Python, FastAPI, Postman, PostgreSQL, AWS."
     },
     {
